@@ -10,10 +10,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="HomePageGynManager" title="HomePageGynManager" src="images/HomePageGynManager.PNG" width="70%" =>
-</p>
-
 <h4 align="center">
    👷🏾‍♂️⚙️ Aplicação em desenvolvimento ⚙️👷🏾‍♂️
 <h4>
